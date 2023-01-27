@@ -1,17 +1,3 @@
-<h1 align="center">
-<p>
-<img src= "https://telegra.ph/file/891dd12dfb6515ebc79d2.jpg" alt="DUDA-BOT-MD" width="720">
-</p>
-
-<p align="center">
-<a href="#"><img title="BOT MULTI DEVICE" src="https://img.shields.io/badge/BOT MULTI DEVICE-blue?&style=for-the-badge"></a>
-</p>
-
-<p align="center">
-<img title="Autor" src="https://img.shields.io/badge/Autor-ALIZIN.DEV-orange.svg?style=for-the-badge&logo=github"></a>
-<img title="VERSÃO" src="https://img.shields.io/badge/Versão-6.0.0-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
-
 <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=𝐃𝐔𝐃𝐀-𝐁𝐎𝐓-𝐌𝐃 𝐕𝟑;𝐂𝐎𝐌+𝐌𝐀𝐈𝐒+𝐃𝐄+;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒;𝖆𝖑𝖎𝖟𝖎𝖓-𝕯𝖊𝖛 - 𝕯𝖔𝖒𝖎𝖓𝖆𝖆✰✰✰✰✰">
 
 <h1 align="center">
