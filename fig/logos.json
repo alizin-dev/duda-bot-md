@@ -1,0 +1,5496 @@
+
+case 'naruto2':
+ reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto2`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessaaage = {
+video: {url: 'https://telegra.ph/file/c47a25d5d52e8b652d750.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] AQUA BOT OFICIAL  [💧]',
+buttons: buttonnns,
+
+headerType: 4
+}
+sendMsg = aqua.sendMessage(from, buttonMessaaage, {quoted: selo})
+Break
+//==========(EDIT - KIMETSU )==============\\
+
+case 'edit-kimetsu':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu2`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/cad3a816e7791c35d5bbf.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu2':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu4`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/2d7726517a36d51d18826.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu4':
+reply(`💦 𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}kimetsu5`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/2baefcbf93abbeb78f1f5.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu5':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu6`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6263e34f1d2c2c5414033.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu6':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu7`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/9e3d1b84b22eaf6f6600c.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu7':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu8`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/76d1491f515157f341e6c.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu8':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu9`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/872d3d525c181b884d8b7.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤???? 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu9':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu10`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/5710ae49df2efc61863b2.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu10':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰??...`)
+buttons = [
+{buttonId: `${prefix}kimetsu11`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/e63227a9c374eae031243.mp4'},
+caption: "[💦] ??𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu11':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu12`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/ecdc39e7f4660d9ebbc8a.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu12':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu13`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/e46ea5dcf633015ef4b05.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu13':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu14`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/8c3f17e8edc1c0ae6b650.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu14':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu15`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/f20457f2723316d3cefc9.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu15':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰??...`)
+buttons = [
+{buttonId: `${prefix}kimetsu16`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/b0e3faa81f078b575d77f.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu16':
+reply(`💦𝗔𝗴𝘂𝗮𝗿??𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}kimetsu17`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/03c8adb31835e3f803fff.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu17':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu18`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/110db1f76c17ed7280ab4.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu18':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu19`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/95987cf1dfcf190406f3e.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu19':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 ??𝗼𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}kimetsu20`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/2d7726517a36d51d18826.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu20':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu21`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/2d7726517a36d51d18826.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu21':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu22`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/2d7726517a36d51d18826.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu22':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu23`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/2d7726517a36d51d18826.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu23':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu24`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/2d7726517a36d51d18826.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu24':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu25`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/2d7726517a36d51d18826.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-??𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'kimetsu25':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}kimetsu26`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/2d7726517a36d51d18826.mp4'},
+caption: "[💦] 𝗞𝗜𝗠𝗘𝗧𝗦𝗨 𝗡𝗢 𝗬𝗔𝗜𝗕𝗔 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+//==========( NARUTO - EDIT )==============\\
+
+case 'edit-naruto':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto2`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢́𝗫𝗜??𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/1fb74e1a43989618e675a.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto2':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto3`, buttonText: {displayText: '[??] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/c47a25d5d52e8b652d750.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto3':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto4`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/d823deee82beac321adee.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-??𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto4':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto5`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/94de00fb5a3311cf7bfaa.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto4':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto5`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/46c1d2590dcf1c7a4a1b1.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto5':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto6`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/48b6ef746b9f8cbe81a29.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto6':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto7`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢́??𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/eac543a0cfa59e145c297.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto7':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto8`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/838adf9b07b8aff255e5c.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto8':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto9`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/5dd851fec3548aadded44.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto9':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto10`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/9ce3a8c7cf77a1aca8429.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto10':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto11`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/b68d76437ad1b1b6a5aa9.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗??𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto11':
+reply(`??𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}naruto12`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/1261e35b8e6ddca8edf45.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto12':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣??𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}naruto13`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/f6262b11239411e354fe4.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto13':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto14`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/9651b379ad3437acaae45.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto14':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto15`, buttonText: {displayText: '[💦] ??𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/fb74db7a4fe0fbcfda835.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto15':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto16`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/fd373824c32c606a91569.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto16':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto17`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/771b04e4b768ce19b880f.mp4'},
+caption: "[💦] 𝗡𝗔𝗥??𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto17':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto18`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/0ea4a0b7dfa4a087c1794.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto18':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto19`, buttonText: {displayText: '[💦] ??𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/837ef03db614d01a519a8.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto19':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto20`, buttonText: {displayText: '[??] 𝗣𝗥𝗢́𝗫??𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/d062af705758f36c411ec.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 ??𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto20':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto21`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/03b0b73587f07afa270f1.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto21':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto22`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/228edc4ba503c4cba0699.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto22':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto23`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/0038548b6c1e6f0aa7f5a.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto23':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto24`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/d078c943c82e775322625.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto24':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂?? 𝗣𝗼𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}naruto25`, buttonText: {displayText: '[??] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/b98f2f3dbb3dd9905c735.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto25':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto26`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/39de1498b782ea1d28d6e.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto26':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto27`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/fc0466d5a6841a8559c56.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto27':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto28`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/5bf8a913e9d2463bdeb3e.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto28':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto29`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/16b28eb742f3cdd1d5ed5.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto29':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto30`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/f520ec9e13a46fdb2c5c1.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto30':
+reply(`💦𝗔𝗴𝘂??𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}naruto31`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/40b57b37c4eaa16ec444b.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto31':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto32`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/e59b4c8cdda0d9f318ee8.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'naruto32':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}naruto7`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/7d4eb49c14eaef26e17ef.mp4'},
+caption: "[💦] 𝗡𝗔𝗥𝗨𝗧𝗢 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+//==========( SOLO LEVELING EDIT )==============\\
+
+case 'edit-sololeveling':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling2`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/bd9d2b4996c965eb7a1a9.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling2':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}levelig3`, buttonText: {displayText: '[??] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/e099cfd1cd867f2b67a37.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'levelig3':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling3`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6e98311763e210b7f4190.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling3':
+reply(`💦𝗔𝗴??𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}leveling4`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: ' https://telegra.ph/file/b86e3792459a1b709c3bb.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling4':
+reply(`💦𝗔𝗴??𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}leveling5`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: ' https://telegra.ph/file/4e100f5e6a5557b15cd51.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling5':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling6`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/06199a33789750fd6d3e1.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling6':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling7`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/aaa4ec45b598c43a596b0.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling7':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling8`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/7baa5cdf6a2f38ea04342.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling8':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling9`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/b1886a157a3baa1c254b6.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘??𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling9':
+reply(`💦??𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}leveling10`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/4581209dc2aca9030cd69.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling10':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling11`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/8ea28edd8152a85011b79.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling11':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling12`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6c3459ee6386f5ac880bd.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling12':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling13`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/8df6bed99e9e9bf16ad5f.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling13':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling14`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/e8b60d4630c11a2d3ec30.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling14':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 ??𝗺 𝗣𝗼𝘂??𝗼...`)
+buttons = [
+{buttonId: `${prefix}leveling15`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/3a71abd3bd780518c28ea.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling15':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling16`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/5b9e89e10d3cbf1a11b7c.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling16':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling17`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/aebd32d707fea4ac32a6a.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling17':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling18`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/d013948179dab3897c74b.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling18':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling19`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6445997586637800cb7a2.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 ??𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢?? 𝗩2-??𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'leveling19':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling20`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/49e59feab38d65db8804e.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling20':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling21`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/b07bcfaaf83e89a470c92.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling21':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling22`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢́𝗫𝗜???? [??]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/b339ceb5d1bef96c75f51.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling22':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling23`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/af880f4641d44dae205a9.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 ??𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling23':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling23`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/af7573e59757fff050546.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling24':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling24`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/944e8185e7f3676df5803.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡?? 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling25':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling26`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/583e6ed7f3d4b1ce98999.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling26':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling27`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/7d036616a51ed9b9d53c3.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling27':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling28`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢́𝗫𝗜??𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/fb749857f985c23bbd0e4.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling28':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling29`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/c14c5e93016154e5d079b.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling29':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰??...`)
+buttonnns = [
+{buttonId: `${prefix}leveling30`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/ed93e6e7fece5f6e7f3d5.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling30':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}leveling31`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/a26f19ce250c8f9a61c8c.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'leveling31':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-sololeveling`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/997d3f5fe3dbe6d74b75b.mp4'},
+caption: "[💦] 𝗦𝗢𝗟𝗢 𝗟𝗘𝗩𝗘𝗟𝗜𝗡𝗚 𝗘𝗗𝗜𝗧 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+//==========( JUJUTSU KAISEN EDIT )==============\\
+
+case 'edit-jujutsu':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu3`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/92afe5fe9c7e44c621919.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu3':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu4`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/d11ba2dd222c2eb99d977.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu4':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu5`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/62c1220ec89d51e1bff5d.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu5':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu7`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/ca475f9d23a757c97bde4.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu7':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu8`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/489ee86ab050bfbb102dd.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu8':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu9`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/a4037ef28ec148bea19fd.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujusu10':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣??𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}jujutsu11`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/92afe5fe9c7e44c621919.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu12':
+reply(`??𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 ????𝘂????...`)
+buttons = [
+{buttonId: `${prefix}jujutsu13`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/433dee78cfc2b762bbe29.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu13':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu14`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/7f0d1613e574ef9813fc6.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu14':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu15`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/8a8e4d1b7e06e816c2e3f.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu15':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu16`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/68c057f6317f3ca2b660f.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu16':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu17`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/92afe5fe9c7e44c621919.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu17':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu18`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/d9889463a06b177344a55.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu18':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu19`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/1f1dfaafda6b32508e01e.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu20':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu21`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/d9889463a06b177344a55.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu21':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu22`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/d3552b277c30f9d459b84.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu22':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu23`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/ff9710d171fb910affe78.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu23':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu24`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/47c60d0c7385a01cbdea4.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu24':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu25`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6db0bb87385bd4ad239a8.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu25':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu26`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/61904a0f67c3a9f5bda28.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu26':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu27`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/d05fe143ffa5ade8da19d.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'jujutsu27':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}jujutsu7`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/3a75418673f4d8c98fe1a.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗝𝗨𝗝𝗨𝗧𝗦𝗨 𝗞𝗔𝗜𝗦𝗘𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+//==========( SPY X FAMILY EDIT )==============\\
+
+case 'edit-spyxfamily':
+case 'edit-anya':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx2`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/7b7618ba6d3c3367dd712.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx2':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx3`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/24f4701c394df74e0c6bd.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx3':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx4`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/34b4381a9ffd20a27763e.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [??]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx4':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx5`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/9ea68bef6bb21c0f50a7b.mp4'},
+caption: "[💦] 𝗘𝗗???? ????𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [??]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx5':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx6`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/8ed0f68d18cc038d77197.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx6':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx7`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/5c6f943373d285fe078bc.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx7':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx8`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/353f1cdcf289fdf605081.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx8':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx9`, buttonText: {displayText: '[💦] ??𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/cf7e444caf271cac132cd.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx9':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx10`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/a92a4cc53257ea3182e17.mp4'},
+caption: "[💦] ??𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx10':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx11`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/4e55d46ba65b99f662fe9.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx11':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx12`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/c45bb0ea8acb5c4a5193a.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx12':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx13`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/8a1e87acca4496091fc66.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx13':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣??𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx14`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/e6f93aead0a0af1d5a0ca.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'spyx14':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰??...`)
+buttons = [
+{buttonId: `${prefix}spyx15`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/36853387f6ffd47aa953e.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx15':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx16`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/dca14af172dbbd0eaee32.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx16':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx17`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/ab6b38c824bec18dbef22.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx17':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx18`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/270e2b0915094ebcc2645.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx18':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx19`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/721fbf7e5e671db5b75de.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx19':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx20`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/721fbf7e5e671db5b75de.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'spyx20':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx21`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/0429487f2c49366e450e9.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx21':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx22`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6d6037ff699b8b22bc111.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'spyx22':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx23`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6bbf5de11f19c8388a23e.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx23':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx24`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/d9a2bc28a1f230e1415f6.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'spyx24':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}spyx2`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/d45168caa491b12b967e5.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗦𝗣𝗬 𝘅 𝗙𝗔𝗠𝗜𝗟𝗬 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+
+//==========( EDIT - TRAP )==============\\
+
+case 'edit-trap':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap2`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/46716b9d74a9a8d8e0a4c.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap2':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap3`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/7ab1ed0e8eb33aa014557.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap3':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap4`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/31513191c68a8e2112115.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap4':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap5`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/1e0e7bd43e1ef9f7de752.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap5':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap6`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/1c0adcd555801a377e712.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'xtrap6':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap7`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫????𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/bf590c5544c01c4b40810.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap7':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap8`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/e7c413ccea369839aa3d4.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap8':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap9`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/255b50b7ea3dc66d7833a.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap9':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap10`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/7a74ac1b3f3646e21015c.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap10':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap11`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/811b9aa5bf0c50400179e.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap11':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap12`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/38e9ee516d97cb1904ec2.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap12':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap13`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/92c5f9199a06362c60b07.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap13':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap14`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/92c5f9199a06362c60b07.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'xtrap14':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap15`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/4944e26108ffc2f7bbcd7.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap15':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap16`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/b8da1d14f89c0bdd98972.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap16':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap17`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/f819642cd6057f0aa87ec.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap17':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap18`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/945919710ec2a9eaca98b.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'xtrap18':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap19`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/c36d1cb9cda483453d144.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [??]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap19':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap20`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/a59208d43cfcd89d27c3d.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap20':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap21`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/9154167ee4e574b16ba16.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap21':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap22`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/1333a74d64bdc5504e9b2.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'xtrap22':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}xtrap23`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/ce752744f2e31deba5497.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗧𝗥𝗔𝗣 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+//==========( SPY X FAMILY EDIT )==============\\
+
+case 'edit-shingeki':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki1`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/3d3e82751b5de08fb4827.mp4'},
+caption: "[💦] 𝗘??𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'edit-shingeki1':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki2`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/c321e5164146971d73ab2.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki2':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki3`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/db4593befcdc5a9c9eba3.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [??]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki3':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki4`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/3ff79a213a4df55262770.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki4':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki5`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/0bff703e863c5cbb2aa34.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki5':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki6`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/c02e078c8d93fb8f094a5.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki6':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki7`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/85215c9783dba33f292d1.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'edit-shingeki7':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki8`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6f816460bc59b74fd689f.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki8':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki9`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/3711b954fe9d80b398004.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki9':
+reply(`💦𝗔??𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}edit-shingeki10`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/7c7b08de43fe1baae155d.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki10':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki11`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/26147bcf4032df919b7c9.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki11':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki12`, buttonText: {displayText: '[??] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/996660fe26e4d91de86df.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki12':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki13`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/029e5f4c385dfe170345f.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'edit-shingeki13':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki14`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/8cd001ec5bb993a138d7c.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki14':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki15`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/5bd0197269c60e00fc9c6.mp4'},
+caption: "[💦] 𝗘??𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'edit-shingeki15':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki16`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6f45709a5829b1fbbfc62.mp4'},
+caption: "[??] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'edit-shingeki16':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki17`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/35dcece99af1b195b9c78.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'edit-shingeki17':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki18`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/0623eb56d40b383184d10.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'edit-shingeki18':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki19`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/870a6694a62df593ae35a.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki19':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki20`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/3c13f63895e96e0d0b9db.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜??𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'edit-shingeki20':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki21`, buttonText: {displayText: '[??] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/3888082a805f254aa9799.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki21':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki22`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/0eb23aa660147269d1e33.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki22':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki23`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/49a702cf53882f25869a3.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki23':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki24`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/ecf531025babf1afcfda7.mp4'},
+caption: "[💦] 𝗘??𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki24':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki25`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/412c067eabab8cb33679c.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki25':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki26`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/de66d95591ba1b26cf8b7.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki26':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki27`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/2fbdf8fa6af41b520eeb0.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'edit-shingeki27':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki28`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/8c0225debcdd6e31224a3.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'edit-shingeki28':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}edit-shingeki29`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢𝗫𝗜𝗠𝗢 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/2c0c5a112944d9705af89.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗔𝗧𝗔𝗖𝗞 𝗢𝗡 𝗧𝗜𝗧𝗔𝗡 [💧]",
+footerText: '⚫',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+//==========( HUNTER X HUNTER EDIT )==============\\
+
+case 'edit-hunter':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter2`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/05b469b0f38da5fe0beeb.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'hunter2':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter3`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/8595a85e98de61f63a90d.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'hunter3':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter4`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/ceae8176d272a419caff3.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'hunter4':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 ???? ????𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}hunter5`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/181c780922a7eeadc8387.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter5':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter6`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/b0a1ed938a9856b283ff8.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'hunter6':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter7`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/212ae28f83544aaf4b7e6.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'hunter7':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter8`, buttonText: {displayText: '[💦] 𝗣𝗥??́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/9e04e87d3addb26e16b02.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'hunter8':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter9`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/0c7c7e910ef999429b5c2.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥??𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter9':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter10`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/abb7cb7f54103e2eedb85.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-??𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter10':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter11`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/7c2e9ac9746b3fa56c49d.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛????𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter11':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter12`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/08c8f11b70af4e087600e.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter12':
+reply(`💦𝗔𝗴𝘂𝗮𝗿??𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter13`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/a5bd2088dbba309891087.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'hunter13':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter14`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢́𝗫𝗜𝗠?? [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/262e638bbeb5d5df5d502.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter14':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter15`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/fb5c5d2381dc298c7b291.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter15':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter15`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/5b22b410008dcf675ee26.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'hunter16':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter17`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/cd41d1e77ccdd4a0aa116.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'hunter17':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter18`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/3b618253b7ffb04b16954.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter18':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter19`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/16c8759141a944cc37f67.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter19':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter20`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/0e2e492e267b411b976f3.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter20':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter21`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/a471e4967ed850d9a9b6c.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter21':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter22`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/c262c896f307416676223.mp4'},
+caption: "[??] 𝗘????𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧??𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter22':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter23`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/1622de6061561ecfe573b.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter23':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter24`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/ad3dbc2496374989fb926.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter24':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter25`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/55ff3b01b7292cca4a469.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter25':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter26`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/e0d229db18d572df3cc05.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter26':
+reply(`💦𝗔𝗴𝘂𝗮𝗿??𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}hunter27`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/f6763f6b9d1b1bd42a1dc.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter27':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter28`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/93cb749ef733db76410cf.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'hunter28':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter29`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/1df5b22c7ab766e66652d.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+
+case 'hunter29':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter30`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/b3d3d8207bf9baa73f2a4.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+
+case 'hunter30':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter31`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/165f1024ac41961f6b68c.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[??] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter31':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter32`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/ddc9934b06efea848e6be.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter32':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter33`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/867136d681864729e3c77.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'hunter32':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter33`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/2db096fb33107ad259c21.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕??𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'hunter33':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter34`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/de5d6327a273feb5f8dc1.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter34':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter35`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/e47027827b69796661e1f.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+
+case 'hunter35':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter36`, buttonText: {displayText: '[💦] ??𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/d0167ea746a92f067c912.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter36':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter37`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/8bf841526207658bef96c.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter37':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter38`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/b396d1607264e2bf5d686.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'hunter38':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter39`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6b6837e2d3c8ac9641c18.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'hunter39':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter40`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/c990b1754c5efca1abbd8.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+
+case 'hunter40':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter41`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/b3211b8104f7ec1c1a624.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter41':
+reply(`💦𝗔??𝘂𝗮𝗿𝗱𝗲 ??𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}hunter42`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/3b98fa6eaa3255843e5be.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter42':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter43`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢́𝗫𝗜𝗠?? [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/ffd12e9ad587889c3f31c.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter43':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter44`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/97aeea6ec134b226cfe42.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'hunter44':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter45`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/39c9bf4949b62d4c06eda.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter45':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter46`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/0ffa1dffaf2913aae7534.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'hunter46':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}hunter47`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/eba9a8cd990bf3c150689.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'hunter47':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 ??𝗼𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}hunter48`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6a01cf7176a2bfc0e9bdf.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗛𝗨𝗡𝗧𝗘𝗥𝘅𝗛𝗨𝗡𝗧𝗘𝗥 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+//==========( DRAGON BALL EDIT )==============\\
+
+case 'edit-dragonball':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds3`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6496fc5b714c77deba3f4.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'dbs3':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds4`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/c02b62160a02f16ba6deb.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'dbs4':
+reply(`💦𝗔??𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}bds5`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/97fa8dd0a387f4fe17e42.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs5':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds6`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/100e88bb4d8f400f5e6c8.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs6':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds7`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/88f1f7170b9dee5ef7efe.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[??] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs7':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds8`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/38c0e6ce42086d90b16f4.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs8':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds9`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/cde194a8c1dfe0228b30d.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'dbs9':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼??𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}bds10`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/d1f33887b28fbe49599e4.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs10':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds11`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/5fff6b822161d395a7b88.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'dbs11':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds12`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/0c063cba4dd3959bc49ee.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'dbs12':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds13`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/382015fd08498f1273c28.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 ??𝗥𝗔𝗚𝗢𝗡 ??𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs13':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds14`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6fc77445b4a11db782225.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'dbs14':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds15`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/afc51311d968d48e2ab0f.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs15':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds16`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/4d42e183068560b5fabe4.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs16':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds17`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/e9d5617af411cd56fac3d.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs17':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds18`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́??𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/0e9a33573703d34a375af.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs19':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds20`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/56b44a60fb13b0487de01.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [??]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs20':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds21`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/810b6c49073dcbda64b03.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'dbs21':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds22`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/8c9bbd3c33deee422ccb4.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs22':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds23`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/3c72a94dd7c935f7900a5.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'dbs23':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds24`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/0518bea034814269a9b23.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'dbs24':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds25`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/edb4dcecd2c6a447d139f.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs25':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds26`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/007516d8497ddb5171b53.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs26':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds27`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/27d71cacaf87a8a204306.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'dbs27':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds28`, buttonText: {displayText: '[💦] 𝗣𝗥??́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/9778426b0cf8d58742728.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'dbs28':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds29`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢́??𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/0c4c27989f4fd71093700.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 ??𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟?? [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs29':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds30`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/1b9c4cd853b3b77d68cbf.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs30':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds31`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6fd0461a8804d9c68fd24.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'dbs31':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds32`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/68d9f0ff75ded2cf0ffce.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs32':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds33`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/415267eb673cd431d0af5.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'dbs33':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds34`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6a45260d80bbbcc553a3c.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 ??𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+
+case 'dbs34':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds35`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/b61f8cae822dc92d9382a.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs35':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds36`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/b61f8cae822dc92d9382a.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs36':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds37`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/f326a80883413b22ebbb6.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'dbs37':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds38`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/43a774de09efb3726cd0c.mp4'},
+caption: "[💦] ????𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'dbs38':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds39`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/acdde8a13b6919b5ad0f6.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs39':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds40`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/845811b9049bb1c8d5d4b.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'dbs40':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds41`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/b71b05b00c1a971c85e9b.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs41':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds42`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/a8d9decabdb0d57f07c78.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'dbs42':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds43`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/10f374ae28744c510a5fc.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs43':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds44`, buttonText: {displayText: '[💦] 𝗣𝗥𝗢́𝗫??𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/15c994ec531942f919ae0.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'dbs44':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bds45`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/02ddd2f76a404dfeb73c1.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'dbs45':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱?? 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}bds46`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/581321a7114ed7c113730.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'dbs46':
+reply(`??𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂??𝗼...`)
+buttons = [
+{buttonId: `${prefix}bds47`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/29dbd8b9f014bbe22bb83.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗗𝗥𝗔𝗚𝗢𝗡 𝗕𝗔𝗟𝗟 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+//==========( BLEACH EDIT )==============\\
+
+case 'edit-bleach':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach1`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/8ad67d0cf249b0be1cc2a.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach1':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach2`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/e39f9abc981abb98edc0c.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach2':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach3`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/68c170e9522c21892e6f7.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach3':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach4`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/99db6a34d2024b5a7d56d.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach4':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach5`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6825dfc4aba4654a8bf94.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤??𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'bleach5':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱?? 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}bleach5`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/1d86396565a736ab7338e.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach6':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach7`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/f53aab6a89abccbf86c48.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'bleach7':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach8`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/a31c9105fa4d2bc259a10.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'bleach8':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach9`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/7ff7002ce8aeab21b0425.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'bleach9':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach10`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/a7af996737e95d169e856.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach10':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach11`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/4750ef2f3e7f768931956.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach11':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach12`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/92ac6d5d9875d0053e0bc.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach12':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach13`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/dba9d21bd734f8a53dbb1.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'bleach13':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach14`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/692ab6e930898f2f5fd70.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach14':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach15`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/692ab6e930898f2f5fd70.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach15':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach16`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/b05f6431dcc258c20c09e.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'bleach16':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach17`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/4de9d9a6e70a71a9305f8.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach17':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach18`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'hhttps://telegra.ph/file/2157e3eaa1f569c3321e1.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach18':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach19`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/a8f958439af02caa2830d.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach19':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach20`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/4d251bfa372e59346c464.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'bleach20':
+reply(`💦𝗔𝗴??𝗮𝗿𝗱𝗲 𝘂?? 𝗣𝗼𝘂𝗰𝗼...`)
+buttons = [
+{buttonId: `${prefix}bleach21`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/61d6375be8a20dd7f4870.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach21':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach22`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/41c5271d379f366b92c13.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'bleach22':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach23`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/203198b09ae3fa5a98faf.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔??𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'bleach23':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach24`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/a12c3120efc193ca0a945.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach24':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach25`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/42afdea8d19f012fa8e11.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach25':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach26`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6d3a023bee3793b98cf19.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach26':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach27`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/afa561856854a38fae288.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach27':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach28`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/afa561856854a38fae288.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'bleach28':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach29`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/949297fdea59df868ca52.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach29':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach30`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/87ef6d703618311f0b53f.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕??𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+
+case 'bleach30':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach31`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/77032070187f605dea9a8.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach31':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach32`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/2a34a566ed9c7ff6658af.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach32':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach33`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/222f44201d7e8dae1054a.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach33':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach34`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/3e985cfb7e35147729184.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach34':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach35`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/58defc1e53484a4f81294.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 ?????? 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach35':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach36`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/049be56bb64b3499ac658.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach36':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach37`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/ecd7ca35d1cd4198e61a6.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach37':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach38`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6d37e789ea927117ee487.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'bleach38':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach39`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/4bf9a0cf97693bcb7ae71.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach39':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach40`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/5a1c31712cced0823d0fc.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach40':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach41`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/2ade9dc90ac95fa35ad8f.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach41':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach42`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/219e293b737195503a7b9.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach42':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach43`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/6101f3551bf3313782daa.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+case 'bleach43':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach44`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/1c9ab4196998986eec3fe.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach44':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach45`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/82b6a3f3053c47f747160.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+
+case 'bleach45':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach46`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/0473f380c1c5c2e7ca29e.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach46':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach47`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/be92bc691522018e22cbc.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+
+case 'bleach47':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach48`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/7edc2031ff2f7be2b2b31.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖?? [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach48':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach49`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/b91e36d220737b180682c.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach49':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach50`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/f42827353b52cc4babdaa.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach50':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach51`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/5aaa204a47c5a9e3305a9.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
+
+
+case 'bleach51':
+reply(`💦𝗔𝗴𝘂𝗮𝗿𝗱𝗲 𝘂𝗺 𝗣𝗼𝘂𝗰𝗼...`)
+buttonnns = [
+{buttonId: `${prefix}bleach`, buttonText: {displayText: '[💧] 𝗣𝗥𝗢́𝗫𝗜𝗠𝗔 [💧]'}, type: 1}]
+
+buttonMessage = {
+video: {url: 'https://telegra.ph/file/a7eecfc04d6ac239bf564.mp4'},
+caption: "[💦] 𝗘𝗗𝗜𝗧 𝗕𝗟𝗘𝗔𝗖𝗛 [💧]",
+footerText: '[💦] 𝗔𝗤𝗨𝗔 𝗕𝗢𝗧 𝗩2-𝗠𝗗 [💧]',
+buttons: buttons,
+
+headerType: 4
+}
+sendMsg = pl.sendMessage(from, buttonMessage, {quoted: selo})
+break
