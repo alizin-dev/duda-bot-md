@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=𝐃𝐔𝐃𝐀-𝐁𝐎𝐓-𝐌𝐃 𝐕𝟑;𝐂𝐎𝐌+𝐌𝐀𝐈𝐒+𝐃𝐄+;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒;𝖆𝖑𝖎𝖟𝖎𝖓-𝕯𝖊𝖛 - 𝕯𝖔𝖒𝖎𝖓𝖆𝖆✰✰✰✰✰">
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐎𝐓+𝐕6.5;𝐌𝐀𝐈𝐒+𝐔𝐒𝐀𝐃𝐀+𝐃𝐎+𝐁𝐑;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
 
 <h1 align="center">
 <p>
-<img src= "https://telegra.ph/file/891dd12dfb6515ebc79d2.jpg" alt="DUDA-BOT-MD" width="720">
+<img src= "https://telegra.ph/file/4f50b847d0d078a954055.jpg" alt="SAKURA BOT" width="720">
 </p>
 
 <p align="center">
@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-<img title="Autor" src="https://img.shields.io/badge/Autor-ALIZIN.DEV-orange.svg?style=for-the-badge&logo=github"></a>
-<img title="VERSÃO" src="https://img.shields.io/badge/Versão-6.0.0-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Autor" src="https://img.shields.io/badge/Autor-M.SCHEYOT-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Versão" src="https://img.shields.io/badge/Versão-6.0.0-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 ## INSTALAÇÃO VIA TERMUX  <img src="https://user-images.githubusercontent.com/108157095/182052725-6568419a-6a9f-490a-85ea-90b94af694fe.png" height="25px">
