@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=𝐒𝐀𝐊𝐔𝐑𝐀-𝐁𝐎𝐓+𝐕6.5;𝐌𝐀𝐈𝐒+𝐔𝐒𝐀𝐃𝐀+𝐃𝐎+𝐁𝐑;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=𝐃𝐔𝐃𝐀-𝐁𝐎𝐓-𝐌𝐃+𝐕𝟑;𝐂𝐎𝐌+𝐌𝐀𝐈𝐒+𝐃𝐄;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒;𝕸.𝕾𝖈𝖍𝖊𝖞𝖔𝖙-𝕯𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
 <h1 align="center">
 <p>
 <img src= "https://telegra.ph/file/4f50b847d0d078a954055.jpg" alt="SAKURA BOT" width="720">
