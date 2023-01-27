@@ -57,8 +57,9 @@ sh fazer-outro-qr-code.sh
 ### • Certifique-se que seu Whatsapp esteja atualizado. (RECOMENDO QUE USE O DA PLAY STORE).
 
 ### • Quando Desligar o bot e quiser ligar novamente basta digitar : 
+```
 cd /sdcard/duda-bot-md && sh alizin.sh
-  
+```
 ### • Vá no arquivo 'CONFIG.JS' e coloque seu número no lugar do jeito q esta la, no mesmo formato, JAE Chef ?
  
 ### • mude o prefixo tbm ( SE QUISER ). no arquivo > 'CONFIG.JS'
