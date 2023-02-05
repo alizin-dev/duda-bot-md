@@ -19,20 +19,23 @@
 termux-setup-storage
 ```
 ---------------------------
-
-**2° COMANDO ( ENTRAR NA PASTA )**
+**2° COMANDO ( PERMISSÃO PRA PODER INSTALAR )**
+```
+pkg install git -y
+```
+**3° COMANDO ( ENTRAR NA PASTA )**
 ```
 cd /sdcard/
 ```
-**3° COMANDO ( INSTALAÇÃO DO BOT )**
+**4° COMANDO ( INSTALAÇÃO DO BOT )**
 ```
 git clone https://github.com/alizin-dev/duda-bot-md.git
 ```
-**4° COMANDO ( ENTRAR NA PASTA DO BOT )**
+**5° COMANDO ( ENTRAR NA PASTA DO BOT )**
 ```
 cd /sdcard/duda-bot-md
 ```
-**5° COMANDO ( INSTALAÇÃO DE COMANDS )**
+**6° COMANDO ( INSTALAÇÃO DE COMANDS )**
 ```
 sh instalação.sh
 ```
@@ -54,7 +57,7 @@ sh fazer-outro-qr-code.sh
    
 ### • Escaneie o qr code por outro celular na aba de "APARELHOS CONECTADOS".
   
-### • Certifique-se que seu Whatsapp esteja atualizado. (RECOMENDO QUE USE O DA PLAY STORE).
+### • Certifique-se que seu Whatsapp esteja atualizado. (recomendo, use o da play store:WHATSAPP BUNNESIS).
 
 ### • Quando Desligar o bot e quiser ligar novamente basta digitar : 
 ```
