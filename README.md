@@ -68,4 +68,6 @@ cd /sdcard/duda-bot-md && sh alizin.sh
 ### • mude o prefixo tbm ( SE QUISER ). no arquivo > 'CONFIG.JS'
  
 
- <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF00FF&center=falso&vCenter=falso&lines=𝐃𝐔𝐃𝐀-𝐁𝐎𝐓-𝐌𝐃+𝐕𝟑;𝐂𝐎𝐌+𝐌𝐀𝐈𝐒+𝐃𝐄;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒;𝑨𝖑𝖎𝖟𝖎𝖓-𝕯𝖊𝖛-𝕯𝖔𝖒𝖎𝖓𝖆𝖆✰✰✰✰✰">      
+
+
+ <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF00FF&center=falso&vCenter=falso&lines=𝑨𝖑𝖎𝖟𝖎𝖓-𝕯𝖊𝖛-𝕯𝖔𝖒𝖎𝖓𝖆𝖆✰✰✰✰✰">      
