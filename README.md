@@ -70,4 +70,4 @@ cd /sdcard/duda-bot-md && sh alizin.sh
 
 
 
- <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF00FF&center=falso&vCenter=falso&lines=𝑨𝖑𝖎𝖟𝖎𝖓-𝕯𝖊𝖛-𝕯𝖔𝖒𝖎𝖓𝖆𝖆✰✰✰✰✰">      
+ <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00FFFF&center=falso&vCenter=falso&lines=𝑨𝖑𝖎𝖟𝖎𝖓-𝕯𝖊𝖛-𝕯𝖔𝖒𝖎𝖓𝖆𝖆✰✰✰✰✰">      
